@@ -8,7 +8,7 @@ const HeroSection = () => {
           The All-in-One Platform for Teams
         </h1>
 
-        <p className="text-lg lg:text-xl text-center text-neutral-600 mt-4 lg:mt-6 max-w-2xl">
+        <p className="text-lg lg:text-xl text-center bg-gradient-to-r from-slate-300 to-slate-600 text-transparent bg-clip-text mt-4 lg:mt-6 max-w-2xl">
           Manage your team with advanced features for productivity,
           collaboration, and organization.
         </p>

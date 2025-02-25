@@ -1,9 +1,4 @@
-import { BotMessageSquare } from "lucide-react";
-import { BatteryCharging } from "lucide-react";
-import { Fingerprint } from "lucide-react";
-import { ShieldHalf } from "lucide-react";
-import { PlugZap } from "lucide-react";
-import { GlobeLock } from "lucide-react";
+import { Users, Fingerprint, Shield, Zap, Edit, BarChart2 } from "lucide-react";
 
 import user1 from "../assets/dev/user1.png";
 import user2 from "../assets/dev/user2.png";
@@ -25,25 +20,25 @@ export const testimonials = [
     user: "Alex Lee",
     company: "Tech Innovators",
     image: user1,
-    text: "Our 8-8-8 team model has never been more efficient! The tools helped streamline communication and project flow, which resulted in faster deliveries.",
+    text: "Our 8:88 team model has never been more efficient! The tools helped streamline communication and project flow, which resulted in faster deliveries.",
   },
   {
     user: "Sam Taylor",
     company: "Future Solutions",
     image: user2,
-    text: "As a team of 8-8-8 members, we needed a platform that would allow us to work simultaneously on different aspects of the project. This platform exceeded our expectations.",
+    text: "As a team of 8:88 members, we needed a platform that would allow us to work simultaneously on different aspects of the project. This platform exceeded our expectations.",
   },
   {
     user: "Jordan Brown",
     company: "NexTech",
     image: user3,
-    text: "Using these collaboration tools has transformed the way our 8-8-8 team works. Real-time feedback and seamless workflow integration have made us more productive than ever.",
+    text: "Using these collaboration tools has transformed the way our 8:88 team works. Real-time feedback and seamless workflow integration have made us more productive than ever.",
   },
   {
     user: "Rachel White",
     company: "Innovative Systems",
     image: user4,
-    text: "The team-based features made it easier to break down tasks and delegate. As an 8-8-8 team, we were able to complete projects with better coordination and fewer mistakes.",
+    text: "The team-based features made it easier to break down tasks and delegate. As an 8:88 team, we were able to complete projects with better coordination and fewer mistakes.",
   },
   {
     user: "Michael Wilson",
@@ -61,7 +56,7 @@ export const testimonials = [
 
 export const features = [
   {
-    icon: <BotMessageSquare />,
+    icon: <Users />,
     text: "Team-Oriented Workflow",
     description:
       "Facilitate seamless collaboration with an intuitive, team-oriented workflow that lets everyone stay on the same page.",
@@ -70,28 +65,28 @@ export const features = [
     icon: <Fingerprint />,
     text: "Multi-Role Support",
     description:
-      "Easily manage different roles within your 8-8-8 team structure, allowing each team member to have access to the tools they need.",
+      "Easily manage different roles within your 8:88 team structure, allowing each team member to have access to the tools they need.",
   },
   {
-    icon: <ShieldHalf />,
+    icon: <Shield />,
     text: "Customizable Templates",
     description:
       "Start projects quickly with customizable templates that suit various team needs, from design to execution.",
   },
   {
-    icon: <BatteryCharging />,
+    icon: <Zap />,
     text: "Real-Time Team Previews",
     description:
       "Allow your team to see live changes and updates as they happen, enabling faster decisions and iterations.",
   },
   {
-    icon: <PlugZap />,
+    icon: <Edit />,
     text: "Collaborative Editing Tools",
     description:
       "Enhance team productivity with real-time collaborative editing, so team members can contribute instantly.",
   },
   {
-    icon: <GlobeLock />,
+    icon: <BarChart2 />,
     text: "Comprehensive Analytics",
     description:
       "Gain actionable insights into team performance and the effectiveness of your projects with integrated analytics tools.",
@@ -100,24 +95,24 @@ export const features = [
 
 export const checklistItems = [
   {
-    title: "Code merge made easy",
+    title: "Seamless Team Integration",
     description:
-      "Streamline your merge process with automated conflict resolution and intelligent suggestions.",
+      "Connect your entire team with unified communication channels, shared workspaces, and collaborative tools.",
   },
   {
-    title: "Review code without worry",
+    title: "Project Progress Tracking",
     description:
-      "Efficient code review tools with inline comments and automated quality checks.",
+      "Monitor team achievements, milestones, and deliverables with visual progress indicators and reporting.",
   },
   {
-    title: "AI Assistance to reduce time",
+    title: "Intelligent Team Coordination",
     description:
-      "Let AI help you identify potential issues and suggest improvements to your code.",
+      "Automatically sync team schedules, distribute workload, and coordinate across different time zones.",
   },
   {
-    title: "Share work in minutes",
+    title: "Cross-Team Collaboration",
     description:
-      "Quick and secure code sharing features to collaborate with your team members.",
+      "Enable smooth interaction between different team units with shared resources and synchronized workflows.",
   },
 ];
 
