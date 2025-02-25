@@ -116,41 +116,6 @@ export const checklistItems = [
   },
 ];
 
-export const pricingOptions = [
-  {
-    title: "Basic Team",
-    price: "$0",
-    features: [
-      "Limited Board Sharing",
-      "5 Gb Team Storage",
-      "Basic Web Analytics",
-      "Private Mode",
-    ],
-  },
-  {
-    title: "Pro Team",
-    price: "$20",
-    features: [
-      "Unlimited Board Sharing",
-      "10 Gb Team Storage",
-      "Advanced Web Analytics",
-      "Private Mode",
-      "Collaboration Tools",
-    ],
-  },
-  {
-    title: "Enterprise Team",
-    price: "$300",
-    features: [
-      "Unlimited Board Sharing",
-      "Unlimited Team Storage",
-      "High-Performance Network",
-      "Private Mode",
-      "Dedicated Support",
-    ],
-  },
-];
-
 export const resourcesLinks = [
   { href: "#", text: "Team Workflow Guide" },
   { href: "#", text: "Documentation" },
