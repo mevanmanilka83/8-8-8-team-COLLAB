@@ -5,12 +5,12 @@ import { ShieldHalf } from "lucide-react";
 import { PlugZap } from "lucide-react";
 import { GlobeLock } from "lucide-react";
 
-import user1 from "../assets/profile-pictures/user1.png";
-import user2 from "../assets/profile-pictures/user2.png";
-import user3 from "../assets/profile-pictures/user3.png";
-import user4 from "../assets/profile-pictures/user4.png";
-import user5 from "../assets/profile-pictures/user5.png";
-import user6 from "../assets/profile-pictures/user6.png";
+import user1 from "../assets/dev/user1.png";
+import user2 from "../assets/dev/user2.png";
+import user3 from "../assets/dev/user3.png";
+import user4 from "../assets/dev/user4.png";
+import user5 from "../assets/dev/user5.png";
+import user6 from "../assets/dev/user6.png";
 
 //team collaboration platform
 export const navItems = [
