@@ -2,43 +2,45 @@
 
 A modern, responsive web application for team collaboration and management. Built with React, Vite, and TailwindCSS.
 
-![Project Preview](./src/assets/overview.png)
+![App Screenshot](https://github.com/user-attachments/assets/7492fce3-c008-42ff-aecd-8f78faa59396)
 
 ## Features
 
-* Fully Responsive Design
-* Modern UI with TailwindCSS
-* Fast Performance with Vite
+- Fully Responsive Design
+- Modern UI with TailwindCSS
+- Fast Performance with Vite
 
 ## Build With
-*  React
-*  Vite
-*  TailwindCSS
-*  Lucide Icons
-*  React Router
+
+- React
+- Vite
+- TailwindCSS
+- Lucide Icons
+- React Router
 
 ## Getting Started
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/8-8-8-team.git
+git clone https://github.com/MevanManilka83/8-8-8-team.git
 ```
 
-2. Install dependencies:
+Install dependencies:
 
 ```bash
 cd 8-8-8-team
+
 npm install
 ```
 
-3. Start the development server:
+Start the development server:
 
 ```bash
 npm run dev
 ```
 
-4. Build for production:
+Build for production:
 
 ```bash
 npm run build
