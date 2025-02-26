@@ -159,27 +159,26 @@ export const pricingOptions = [
     ],
   },
 ];
-
 export const resourcesLinks = [
-  { href: "#", text: "Team Workflow Guide" },
-  { href: "#", text: "Documentation" },
-  { href: "#", text: "Collaborative Tutorials" },
-  { href: "#", text: "API Reference" },
-  { href: "#", text: "Community Forums" },
+  { href: "#", text: "8:88 Team Guide" },
+  { href: "#", text: "Knowledge Center" },
+  { href: "#", text: "Team Training Hub" },
+  { href: "#", text: "Workflow Integration" },
+  { href: "#", text: "Team Success Tips" },
 ];
 
 export const platformLinks = [
-  { href: "#", text: "Features" },
-  { href: "#", text: "Supported Devices" },
-  { href: "#", text: "System Requirements" },
-  { href: "#", text: "Downloads" },
-  { href: "#", text: "Release Notes" },
+  { href: "#", text: "Team Management" },
+  { href: "#", text: "Communication Tools" },
+  { href: "#", text: "Project Templates" },
+  { href: "#", text: "Collaboration Apps" },
+  { href: "#", text: "Team Updates" },
 ];
 
 export const communityLinks = [
-  { href: "#", text: "Team Meetups" },
-  { href: "#", text: "Networking Events" },
-  { href: "#", text: "Team Building Activities" },
-  { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs and Collaborations" },
+  { href: "#", text: "Team Forums" },
+  { href: "#", text: "Virtual Meetups" },
+  { href: "#", text: "Team Building Workshops" },
+  { href: "#", text: "Collaboration Spaces" },
+  { href: "#", text: "Team Success Stories" },
 ];
