@@ -116,6 +116,44 @@ export const checklistItems = [
   },
 ];
 
+export const pricingOptions = [
+  {
+    title: "Starter Team",
+    price: "$0",
+    features: [
+      "Up to 8 Team Members",
+      "Basic Task Management",
+      "10GB Shared Storage",
+      "Standard Support",
+      "Core Collaboration Tools",
+    ],
+  },
+  {
+    title: "Growth Team",
+    price: "$25",
+    features: [
+      "Up to 88 Team Members",
+      "Advanced Project Management",
+      "100GB Shared Storage",
+      "Priority Support",
+      "Advanced Collaboration Suite",
+      "Real-time Analytics",
+    ],
+  },
+  {
+    title: "Enterprise Team",
+    price: "$888",
+    features: [
+      "Unlimited Team Members",
+      "Enterprise Project Management",
+      "Unlimited Storage",
+      "24/7 Dedicated Support",
+      "Custom Integrations",
+      "Advanced Security Features",
+    ],
+  },
+];
+
 export const resourcesLinks = [
   { href: "#", text: "Team Workflow Guide" },
   { href: "#", text: "Documentation" },
