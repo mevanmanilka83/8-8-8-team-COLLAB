@@ -6,17 +6,16 @@ A modern, responsive web application for team collaboration and management. Buil
 
 ## Features
 
-- Fully Responsive Design
-- Modern UI with TailwindCSS
-- Fast Performance with Vite
+* Fully Responsive Design
+* Modern UI with TailwindCSS
+* Fast Performance with Vite
 
 ## Build With
-
-- React
-- Vite
-- TailwindCSS
-- Lucide Icons
-- React Router
+*  React
+*  Vite
+*  TailwindCSS
+*  Lucide Icons
+*  React Router
 
 ## Getting Started
 
