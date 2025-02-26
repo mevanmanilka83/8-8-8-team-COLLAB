@@ -130,7 +130,7 @@ export const pricingOptions = [
   },
   {
     title: "Growth Team",
-    price: "$25",
+    price: "$8.88",
     features: [
       "Up to 88 Team Members",
       "Advanced Project Management",
@@ -142,7 +142,7 @@ export const pricingOptions = [
   },
   {
     title: "Enterprise Team",
-    price: "$888",
+    price: "$10.88",
     features: [
       "Unlimited Team Members",
       "Enterprise Project Management",

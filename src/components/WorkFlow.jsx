@@ -5,7 +5,7 @@ import { checklistItems } from "../data";
 const WorkFlow = () => {
   return (
     <section className="container mx-auto px-4 py-20">
-      <h2 className="text-center text-3xl sm:text-4xl lg:text-5xl font-bold text-black mb-12 pb-4">
+      <h2 className="text-center text-3xl sm:text-4xl lg:text-5xl font-bold text-black mb-12 pb-4 tracking-tight">
         Streamline Your Workflow
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">

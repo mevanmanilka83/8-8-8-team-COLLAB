@@ -1,15 +1,15 @@
 import { features } from "../data";
 const FeatureSection = () => {
   return (
-    <div className="relative mt-20 border-b border-neutral-800 min-h-[800px]">
+    <section className="relative mt-20 border-b border-neutral-800 min-h-[800px]">
       <div className="text-center">
         <span className="bg-neutral-900 text-white rounded-full h-6 text-sm font-medium px-2 py-1 uppercase">
           Features
         </span>
-        <h2 className="text-3xl sm:text-3xl lg:text-5xl mt-10 font-bold text-neutral-900 tracking-wide">
+        <h2 className="text-center text-3xl sm:text-4xl lg:text-5xl  mb-1 pb-4 mt-10 font-bold text-neutral-900 tracking-tight">
           Advanced Features for Teams
         </h2>
-        <p className="text-lg text-neutral-600 mt-2 pt-3 max-w-2xl mx-auto bg-gradient-to-r from-slate-300 to-slate-600 text-transparent bg-clip-text ">
+        <p className="text-lg text-neutral-600  pt-3 max-w-2xl mx-auto bg-gradient-to-r from-slate-300 to-slate-600 text-transparent bg-clip-text ">
           Our platform is designed to help your team with advanced features for
           productivity, collaboration, and organization.
         </p>
@@ -34,7 +34,7 @@ const FeatureSection = () => {
           ))}
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 
