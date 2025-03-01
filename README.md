@@ -12,11 +12,10 @@ A modern, responsive web application for team collaboration and management. Buil
 
 ## Build With
 
-- React
-- Vite
-- TailwindCSS
-- Lucide Icons
-- React Router
+**Client:** React, TailwindCSS,Vite, Lucide Icons,React Router
+
+
+
 
 ## Getting Started
 
