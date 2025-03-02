@@ -1,8 +1,10 @@
 # 8-8-8 Team Platform
 
-A modern, responsive web application for team collaboration and management. Built with React, Vite, and TailwindCSS.
+
 
 ![App Screenshot](https://github.com/user-attachments/assets/7492fce3-c008-42ff-aecd-8f78faa59396)
+
+A modern, responsive web application for team collaboration and management. Built with React, Vite, and TailwindCSS.
 
 ## Features
 
