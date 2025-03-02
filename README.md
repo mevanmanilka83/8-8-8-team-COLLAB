@@ -6,18 +6,6 @@
 
 A modern, responsive web application for team collaboration and management. Built with React, Vite, and TailwindCSS.
 
-## Features
-
-- Fully Responsive Design
-- Modern UI with TailwindCSS
-- Fast Performance with Vite
-
-## Build With
-
-**Client:** React, TailwindCSS,Vite, Lucide Icons,React Router
-
-
-
 
 ## Getting Started
 
@@ -47,6 +35,15 @@ Build for production:
 npm run build
 ```
 
+## Features
+
+- Fully Responsive Design
+- Modern UI with TailwindCSS
+- Fast Performance with Vite
+
+## Build With
+
+**Client:** React, TailwindCSS,Vite, Lucide Icons,React Router
 ## Authors
 
 - [@MevanManilka](https://github.com/MevanManilka83)
